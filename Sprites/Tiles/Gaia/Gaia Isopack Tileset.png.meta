@@ -1,0 +1,4232 @@
+fileFormatVersion: 2
+guid: e35768a7aaf70a148a78c20757b604b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2105497567750280560
+    second: Gaia Isopack Tileset_0
+  - first:
+      213: 4512523998482287464
+    second: Gaia Isopack Tileset_1
+  - first:
+      213: -790256525192859180
+    second: Gaia Isopack Tileset_2
+  - first:
+      213: 6473263651019170607
+    second: Gaia Isopack Tileset_3
+  - first:
+      213: 8702321303469041979
+    second: Gaia Isopack Tileset_4
+  - first:
+      213: -6128303475273236368
+    second: Gaia Isopack Tileset_5
+  - first:
+      213: 1025324799604638053
+    second: Gaia Isopack Tileset_6
+  - first:
+      213: 3974457715953679906
+    second: Gaia Isopack Tileset_7
+  - first:
+      213: 4056399762989028842
+    second: Gaia Isopack Tileset_8
+  - first:
+      213: 6831734076240129217
+    second: Gaia Isopack Tileset_9
+  - first:
+      213: -3961728357707487021
+    second: Gaia Isopack Tileset_10
+  - first:
+      213: 7955516343656832593
+    second: Gaia Isopack Tileset_11
+  - first:
+      213: -2953378918244585106
+    second: Gaia Isopack Tileset_12
+  - first:
+      213: -3128506293330669704
+    second: Gaia Isopack Tileset_13
+  - first:
+      213: -1596759449407795315
+    second: Gaia Isopack Tileset_14
+  - first:
+      213: 4131308007172566865
+    second: Gaia Isopack Tileset_15
+  - first:
+      213: -6614862197173759003
+    second: Gaia Isopack Tileset_16
+  - first:
+      213: 261363552242080210
+    second: Gaia Isopack Tileset_17
+  - first:
+      213: -2727393471994202254
+    second: Gaia Isopack Tileset_18
+  - first:
+      213: 3856296100669456243
+    second: Gaia Isopack Tileset_19
+  - first:
+      213: -1620227958875212442
+    second: Gaia Isopack Tileset_20
+  - first:
+      213: 695879368289773028
+    second: Gaia Isopack Tileset_21
+  - first:
+      213: 8907534168005096371
+    second: Gaia Isopack Tileset_22
+  - first:
+      213: 755162510191201163
+    second: Gaia Isopack Tileset_23
+  - first:
+      213: -6805648846482547808
+    second: Gaia Isopack Tileset_24
+  - first:
+      213: 6303449863479411176
+    second: Gaia Isopack Tileset_25
+  - first:
+      213: -6075589563028145597
+    second: Gaia Isopack Tileset_26
+  - first:
+      213: -8426800791100211274
+    second: Gaia Isopack Tileset_27
+  - first:
+      213: -2744222929605975972
+    second: Gaia Isopack Tileset_28
+  - first:
+      213: 5418398144847310567
+    second: Gaia Isopack Tileset_29
+  - first:
+      213: -6454197501438172072
+    second: Gaia Isopack Tileset_30
+  - first:
+      213: -5758475693539158773
+    second: Gaia Isopack Tileset_31
+  - first:
+      213: -9002466917271903240
+    second: Gaia Isopack Tileset_32
+  - first:
+      213: 1231259782625864415
+    second: Gaia Isopack Tileset_33
+  - first:
+      213: -706935444181948682
+    second: Gaia Isopack Tileset_34
+  - first:
+      213: -3301962227071278563
+    second: Gaia Isopack Tileset_35
+  - first:
+      213: 4644194929559187165
+    second: Gaia Isopack Tileset_36
+  - first:
+      213: -3928628980308797272
+    second: Gaia Isopack Tileset_37
+  - first:
+      213: 6541782315830110038
+    second: Gaia Isopack Tileset_38
+  - first:
+      213: -5854678536426696821
+    second: Gaia Isopack Tileset_39
+  - first:
+      213: 3998612186984480898
+    second: Gaia Isopack Tileset_40
+  - first:
+      213: -7627444615856798397
+    second: Gaia Isopack Tileset_41
+  - first:
+      213: -4493268861602420815
+    second: Gaia Isopack Tileset_42
+  - first:
+      213: -6654114896627184816
+    second: Gaia Isopack Tileset_43
+  - first:
+      213: -3784850934184214800
+    second: Gaia Isopack Tileset_44
+  - first:
+      213: 123195325260892041
+    second: Gaia Isopack Tileset_45
+  - first:
+      213: 4407776197679993996
+    second: Gaia Isopack Tileset_46
+  - first:
+      213: -690492852101024339
+    second: Gaia Isopack Tileset_47
+  - first:
+      213: 9186502093218458921
+    second: Gaia Isopack Tileset_48
+  - first:
+      213: 7416661385493687208
+    second: Gaia Isopack Tileset_49
+  - first:
+      213: -636198550360966056
+    second: Gaia Isopack Tileset_50
+  - first:
+      213: -8390289951824562012
+    second: Gaia Isopack Tileset_51
+  - first:
+      213: 762123272667052876
+    second: Gaia Isopack Tileset_52
+  - first:
+      213: 2881598729331587546
+    second: Gaia Isopack Tileset_53
+  - first:
+      213: -8122756660864918816
+    second: Gaia Isopack Tileset_54
+  - first:
+      213: 3620518390372018258
+    second: Gaia Isopack Tileset_55
+  - first:
+      213: 1275878879503722072
+    second: Gaia Isopack Tileset_56
+  - first:
+      213: 6936525972866984651
+    second: Gaia Isopack Tileset_57
+  - first:
+      213: 8472390293132828420
+    second: Gaia Isopack Tileset_58
+  - first:
+      213: 443668410234901624
+    second: Gaia Isopack Tileset_59
+  - first:
+      213: 7419538653665859242
+    second: Gaia Isopack Tileset_60
+  - first:
+      213: -4729001071966433308
+    second: Gaia Isopack Tileset_61
+  - first:
+      213: -5401188339217155981
+    second: Gaia Isopack Tileset_62
+  - first:
+      213: -986030388072991649
+    second: Gaia Isopack Tileset_63
+  - first:
+      213: -123408863783663375
+    second: Gaia Isopack Tileset_64
+  - first:
+      213: -7020255719173762741
+    second: Gaia Isopack Tileset_65
+  - first:
+      213: 2852726702346614382
+    second: Gaia Isopack Tileset_66
+  - first:
+      213: -733998964411788098
+    second: Gaia Isopack Tileset_67
+  - first:
+      213: -2132861799184382304
+    second: Gaia Isopack Tileset_68
+  - first:
+      213: 2462366008157873462
+    second: Gaia Isopack Tileset_69
+  - first:
+      213: 803926090985464593
+    second: Gaia Isopack Tileset_70
+  - first:
+      213: -958585148189676204
+    second: Gaia Isopack Tileset_71
+  - first:
+      213: -1427877222881945042
+    second: Gaia Isopack Tileset_72
+  - first:
+      213: 2026415907268790572
+    second: Gaia Isopack Tileset_73
+  - first:
+      213: 779623354311169695
+    second: Gaia Isopack Tileset_74
+  - first:
+      213: -3331548493219608717
+    second: Gaia Isopack Tileset_75
+  - first:
+      213: 4233092094371325992
+    second: Gaia Isopack Tileset_76
+  - first:
+      213: -6002286682890586933
+    second: Gaia Isopack Tileset_77
+  - first:
+      213: -5752272369799086282
+    second: Gaia Isopack Tileset_78
+  - first:
+      213: -1155826479119860480
+    second: Gaia Isopack Tileset_79
+  - first:
+      213: 1948947689549562609
+    second: Gaia Isopack Tileset_80
+  - first:
+      213: 276716873729167715
+    second: Gaia Isopack Tileset_81
+  - first:
+      213: -5430206035761734751
+    second: Gaia Isopack Tileset_82
+  - first:
+      213: -2922052967850458856
+    second: Gaia Isopack Tileset_83
+  - first:
+      213: 7762559406669671590
+    second: Gaia Isopack Tileset_84
+  - first:
+      213: -1477307278806886868
+    second: Gaia Isopack Tileset_85
+  - first:
+      213: 6050663890720426418
+    second: Gaia Isopack Tileset_86
+  - first:
+      213: -5433384013763084374
+    second: Gaia Isopack Tileset_87
+  - first:
+      213: 2853406056062635625
+    second: Gaia Isopack Tileset_88
+  - first:
+      213: -1011993760369196926
+    second: Gaia Isopack Tileset_89
+  - first:
+      213: 4359162073473118454
+    second: Gaia Isopack Tileset_90
+  - first:
+      213: 4460585964354865906
+    second: Gaia Isopack Tileset_91
+  - first:
+      213: 8044860486763256061
+    second: Gaia Isopack Tileset_92
+  - first:
+      213: 6968185258313914582
+    second: Gaia Isopack Tileset_93
+  - first:
+      213: 4459839132397611782
+    second: Gaia Isopack Tileset_94
+  - first:
+      213: -2582814419636991820
+    second: Gaia Isopack Tileset_95
+  - first:
+      213: -7187140820771604055
+    second: Gaia Isopack Tileset_96
+  - first:
+      213: -7772910479348472227
+    second: Gaia Isopack Tileset_97
+  - first:
+      213: 5485129749111389171
+    second: Gaia Isopack Tileset_98
+  - first:
+      213: -1932269041578376072
+    second: Gaia Isopack Tileset_99
+  - first:
+      213: 7359816265764839626
+    second: Gaia Isopack Tileset_100
+  - first:
+      213: 394306966790012748
+    second: Gaia Isopack Tileset_101
+  - first:
+      213: 5246411688335302651
+    second: Gaia Isopack Tileset_102
+  - first:
+      213: 5651788180161847132
+    second: Gaia Isopack Tileset_103
+  - first:
+      213: 4124814523382331980
+    second: Gaia Isopack Tileset_104
+  - first:
+      213: -4378889899075352349
+    second: Gaia Isopack Tileset_105
+  - first:
+      213: 5451890771687167094
+    second: Gaia Isopack Tileset_106
+  - first:
+      213: 1583674181498461698
+    second: Gaia Isopack Tileset_107
+  - first:
+      213: -391101075491103170
+    second: Gaia Isopack Tileset_108
+  - first:
+      213: -1790693565460131714
+    second: Gaia Isopack Tileset_109
+  - first:
+      213: 4449120807150271947
+    second: Gaia Isopack Tileset_110
+  - first:
+      213: 1870274808134733604
+    second: Gaia Isopack Tileset_111
+  - first:
+      213: 9141669042927752248
+    second: Gaia Isopack Tileset_112
+  - first:
+      213: 5273616151530203899
+    second: Gaia Isopack Tileset_113
+  - first:
+      213: 5146194274624493393
+    second: Gaia Isopack Tileset_114
+  - first:
+      213: -8813161384648363825
+    second: Gaia Isopack Tileset_115
+  - first:
+      213: -3806484886605060972
+    second: Gaia Isopack Tileset_116
+  - first:
+      213: 710417411223416825
+    second: Gaia Isopack Tileset_117
+  - first:
+      213: 3777282725008208865
+    second: Gaia Isopack Tileset_118
+  - first:
+      213: 4795251076854073341
+    second: Gaia Isopack Tileset_119
+  - first:
+      213: -6085701682159427391
+    second: Gaia Isopack Tileset_120
+  - first:
+      213: 5580369643257775411
+    second: Gaia Isopack Tileset_121
+  - first:
+      213: -7510277664835813947
+    second: Gaia Isopack Tileset_122
+  - first:
+      213: 9215692011683301989
+    second: Gaia Isopack Tileset_123
+  - first:
+      213: -6068966309678476100
+    second: Gaia Isopack Tileset_124
+  - first:
+      213: -7252025768691933996
+    second: Gaia Isopack Tileset_125
+  - first:
+      213: 1211422562391395683
+    second: Gaia Isopack Tileset_126
+  - first:
+      213: -7963836200022089683
+    second: Gaia Isopack Tileset_127
+  - first:
+      213: -5264589022834382616
+    second: Gaia Isopack Tileset_128
+  - first:
+      213: -2599545354784496501
+    second: Gaia Isopack Tileset_129
+  - first:
+      213: -4313800898875374563
+    second: Gaia Isopack Tileset_130
+  - first:
+      213: -3298581076555159879
+    second: Gaia Isopack Tileset_131
+  - first:
+      213: -6284331421205687766
+    second: Gaia Isopack Tileset_132
+  - first:
+      213: 8773811070077854991
+    second: Gaia Isopack Tileset_133
+  - first:
+      213: -737399472670264259
+    second: Gaia Isopack Tileset_134
+  - first:
+      213: -2661968042711976978
+    second: Gaia Isopack Tileset_135
+  - first:
+      213: -8554427697281131018
+    second: Gaia Isopack Tileset_136
+  - first:
+      213: -7442731910219927013
+    second: Gaia Isopack Tileset_137
+  - first:
+      213: -9121756214110549291
+    second: Gaia Isopack Tileset_138
+  - first:
+      213: -7397869642646107816
+    second: Gaia Isopack Tileset_139
+  - first:
+      213: 4388245687535163960
+    second: Gaia Isopack Tileset_140
+  - first:
+      213: 7024957405067156128
+    second: Gaia Isopack Tileset_141
+  - first:
+      213: 2760203661969010537
+    second: Gaia Isopack Tileset_142
+  - first:
+      213: -6763082029070045257
+    second: Gaia Isopack Tileset_143
+  - first:
+      213: -6852724154504657879
+    second: Gaia Isopack Tileset_144
+  - first:
+      213: 8096116119308828357
+    second: Gaia Isopack Tileset_145
+  - first:
+      213: 5250772554957187152
+    second: Gaia Isopack Tileset_146
+  - first:
+      213: 3689130693468494675
+    second: Gaia Isopack Tileset_147
+  - first:
+      213: 7452036430589967228
+    second: Gaia Isopack Tileset_148
+  - first:
+      213: 3351619187572036469
+    second: Gaia Isopack Tileset_149
+  - first:
+      213: -2271745631727400812
+    second: Gaia Isopack Tileset_150
+  - first:
+      213: 9045555129558985386
+    second: Gaia Isopack Tileset_151
+  - first:
+      213: -5515121035012819584
+    second: Gaia Isopack Tileset_152
+  - first:
+      213: -352597305660706656
+    second: Gaia Isopack Tileset_153
+  - first:
+      213: -3088190497272297924
+    second: Gaia Isopack Tileset_154
+  - first:
+      213: 6679798417570337295
+    second: Gaia Isopack Tileset_155
+  - first:
+      213: 3211154200953150146
+    second: Gaia Isopack Tileset_156
+  - first:
+      213: 4635944019594032748
+    second: Gaia Isopack Tileset_157
+  - first:
+      213: 7587611393093581668
+    second: Gaia Isopack Tileset_158
+  - first:
+      213: -7054299642594015611
+    second: Gaia Isopack Tileset_159
+  - first:
+      213: 4315155018259796197
+    second: Gaia Isopack Tileset_160
+  - first:
+      213: -7280167447452595832
+    second: Gaia Isopack Tileset_161
+  - first:
+      213: 8728682364691348281
+    second: Gaia Isopack Tileset_162
+  - first:
+      213: -2754245565026171651
+    second: Gaia Isopack Tileset_163
+  - first:
+      213: -5120976244511749112
+    second: Gaia Isopack Tileset_164
+  - first:
+      213: 1553589288020309613
+    second: Gaia Isopack Tileset_165
+  - first:
+      213: -4471913766677604613
+    second: Gaia Isopack Tileset_166
+  - first:
+      213: 7792140248244567152
+    second: Gaia Isopack Tileset_167
+  - first:
+      213: 7537987269375027628
+    second: Gaia Isopack Tileset_168
+  - first:
+      213: -4234549185797580289
+    second: Gaia Isopack Tileset_169
+  - first:
+      213: -4821680422236067054
+    second: Gaia Isopack Tileset_170
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aabc61e15c7c2e0800000000000000
+      internalID: -2105497567750280560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b46f11ba4bf9e30800000000000000
+      internalID: 4512523998482287464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1f17690e17805f0800000000000000
+      internalID: -790256525192859180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2322786ef6a5d950800000000000000
+      internalID: 6473263651019170607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39269e5e1bd4c870800000000000000
+      internalID: 8702321303469041979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0700c885574e3faa0800000000000000
+      internalID: -6128303475273236368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56145db097faa3e00800000000000000
+      internalID: 1025324799604638053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eba3e2c3c182730800000000000000
+      internalID: 3974457715953679906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae590fbb71a3b4830800000000000000
+      internalID: 4056399762989028842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc693e32f13fce50800000000000000
+      internalID: 6831734076240129217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8e04e7c0d1509c0800000000000000
+      internalID: -3961728357707487021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eda74e6fba76e60800000000000000
+      internalID: 7955516343656832593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6177e2858d7307d0800000000000000
+      internalID: -2953378918244585106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f837c0a105594d0800000000000000
+      internalID: -3128506293330669704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fcc42adbb27d9e0800000000000000
+      internalID: -1596759449407795315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f6f317eba555930800000000000000
+      internalID: 4131308007172566865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e35c43f0e94334a0800000000000000
+      internalID: -6614862197173759003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99f9814cc80a300800000000000000
+      internalID: 261363552242080210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277f01b661a562ad0800000000000000
+      internalID: -2727393471994202254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f702d3fd0548530800000000000000
+      internalID: 3856296100669456243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6653618714bc389e0800000000000000
+      internalID: -1620227958875212442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e56f69399248a900800000000000000
+      internalID: 695879368289773028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b33994b12bed9b70800000000000000
+      internalID: 8907534168005096371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b83af4d40ea7a00800000000000000
+      internalID: 755162510191201163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab5c579e6a7d81a0800000000000000
+      internalID: -6805648846482547808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1cc24f04a5a7750800000000000000
+      internalID: 6303449863479411176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34af2a67b7b2faba0800000000000000
+      internalID: -6075589563028145597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfbd7dd35dfd0b80800000000000000
+      internalID: -8426800791100211274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50aa58f8cf8ae9d0800000000000000
+      internalID: -2744222929605975972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee6243a764023b40800000000000000
+      internalID: 5418398144847310567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854609871951e66a0800000000000000
+      internalID: -6454197501438172072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 480
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0590eecdd8c510b0800000000000000
+      internalID: -5758475693539158773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f36dcd2900d01380800000000000000
+      internalID: -9002466917271903240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaa3a1bf30561110800000000000000
+      internalID: 1231259782625864415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e66285f57036f0800000000000000
+      internalID: -706935444181948682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12a8a959d21d22d0800000000000000
+      internalID: -3301962227071278563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeab04beae737040800000000000000
+      internalID: 4644194929559187165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a89366d1c4ba79c0800000000000000
+      internalID: -3928628980308797272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6576cfc3b5419ca50800000000000000
+      internalID: 6541782315830110038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fce2af3e000cea0800000000000000
+      internalID: -5854678536426696821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28002c7399ced7730800000000000000
+      internalID: 3998612186984480898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345c3e7a88fd52690800000000000000
+      internalID: -7627444615856798397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b72dd7d6c3b4a1c0800000000000000
+      internalID: -4493268861602420815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bc6eba1c5d7a3a0800000000000000
+      internalID: -6654114896627184816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fef42cd022897bc0800000000000000
+      internalID: -3784850934184214800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9870a20ee7da5b100800000000000000
+      internalID: 123195325260892041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84532039119b2d30800000000000000
+      internalID: 4407776197679993996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5729ec860ea66f0800000000000000
+      internalID: -690492852101024339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 432
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d2baa4bf20d7f70800000000000000
+      internalID: 9186502093218458921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab25b52c364de660800000000000000
+      internalID: 7416661385493687208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cbd170ac4cb27f0800000000000000
+      internalID: -636198550360966056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8b7f21eb3bf8b80800000000000000
+      internalID: -8390289951824562012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bb06e141b939a00800000000000000
+      internalID: 762123272667052876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9b607e6ce7df720800000000000000
+      internalID: 2881598729331587546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea55386adb264f80800000000000000
+      internalID: -8122756660864918816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a4e03b4aae3230800000000000000
+      internalID: 3620518390372018258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8562e3db415d4b110800000000000000
+      internalID: 1275878879503722072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcae10cfe9d734060800000000000000
+      internalID: 6936525972866984651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f56ac351af39570800000000000000
+      internalID: 8472390293132828420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8741d16811a382600800000000000000
+      internalID: 443668410234901624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa69809581f77f660800000000000000
+      internalID: 7419538653665859242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efcff294963f5eb0800000000000000
+      internalID: -4729001071966433308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378bafb72df1b05b0800000000000000
+      internalID: -5401188339217155981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f543b25169ae052f0800000000000000
+      internalID: -986030388072991649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f84a00da40994ef0800000000000000
+      internalID: -123408863783663375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b415e3a4e9a039e90800000000000000
+      internalID: -7020255719173762741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 384
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6634a642dbe69720800000000000000
+      internalID: 2852726702346614382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb41bbca4df40d5f0800000000000000
+      internalID: -733998964411788098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a64d987e7d8662e0800000000000000
+      internalID: -2132861799184382304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6352f3796d41c2220800000000000000
+      internalID: 2462366008157873462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1136bd6358e182b00800000000000000
+      internalID: 803926090985464593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d6033f2eb62b2f0800000000000000
+      internalID: -958585148189676204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a10432b392f2ce0800000000000000
+      internalID: -1427877222881945042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2905fff7864f1c10800000000000000
+      internalID: 2026415907268790572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96d0546f47c1da00800000000000000
+      internalID: 779623354311169695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37748a5fb46f3c1d0800000000000000
+      internalID: -3331548493219608717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828648af4d6feba30800000000000000
+      internalID: 4233092094371325992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4bf3a301893bca0800000000000000
+      internalID: -6002286682890586933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fb4daa1c2db20b0800000000000000
+      internalID: -5752272369799086282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00df11ae0fda5ffe0800000000000000
+      internalID: -1155826479119860480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f28b61099d0c0b10800000000000000
+      internalID: 1948947689549562609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361dbf1d78817d300800000000000000
+      internalID: 276716873729167715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab5d35816804a4b0800000000000000
+      internalID: -5430206035761734751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811c564be48c277d0800000000000000
+      internalID: -2922052967850458856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aca96e07a62abb60800000000000000
+      internalID: 7762559406669671590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26dd966bdc8f7be0800000000000000
+      internalID: -1477307278806886868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 336
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b98ca530c648f350800000000000000
+      internalID: 6050663890720426418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf7d5bd60eb894b0800000000000000
+      internalID: -5433384013763084374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ecf83a0b5599720800000000000000
+      internalID: 2853406056062635625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2804846690da4f1f0800000000000000
+      internalID: -1011993760369196926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f078bb5fcade7c30800000000000000
+      internalID: 4359162073473118454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa07772d4f27ed30800000000000000
+      internalID: 4460585964354865906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8991d3df515af60800000000000000
+      internalID: 8044860486763256061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d81aeac297f3b060800000000000000
+      internalID: 6968185258313914582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b22f9cf0884ed30800000000000000
+      internalID: 4459839132397611782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8c7cc38fff72cd0800000000000000
+      internalID: -2582814419636991820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9f23ba085224c90800000000000000
+      internalID: -7187140820771604055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e5870a13112490800000000000000
+      internalID: -7772910479348472227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb36b202781f1c40800000000000000
+      internalID: 5485129749111389171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8748c365b833f25e0800000000000000
+      internalID: -1932269041578376072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac02e0556e1532660800000000000000
+      internalID: 7359816265764839626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ffaffd81cd87500800000000000000
+      internalID: 394306966790012748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffdea442affec840800000000000000
+      internalID: 5246411688335302651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f5c48c76f2f6e40800000000000000
+      internalID: 5651788180161847132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a739e64f84e3930800000000000000
+      internalID: 4124814523382331980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8411f46de0b33c0800000000000000
+      internalID: -4378889899075352349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674d4a085c109ab40800000000000000
+      internalID: 5451890771687167094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 240
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e5c2407475af510800000000000000
+      internalID: 1583674181498461698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e541cd4a7829af0800000000000000
+      internalID: -391101075491103170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70db2190bd2627e0800000000000000
+      internalID: -1790693565460131714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdbdf83dc37ebd30800000000000000
+      internalID: 4449120807150271947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f8b33670d84f910800000000000000
+      internalID: 1870274808134733604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834d4e55f8bbdde70800000000000000
+      internalID: 9141669042927752248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa68b1f2f5af2940800000000000000
+      internalID: 5273616151530203899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15754245d64fa6740800000000000000
+      internalID: 5146194274624493393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_115
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc038df2a6c51b580800000000000000
+      internalID: -8813161384648363825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494230bc926ac2bc0800000000000000
+      internalID: -3806484886605060972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_117
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff693e1fd8ebd900800000000000000
+      internalID: 710417411223416825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_118
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3755020aa9b6430800000000000000
+      internalID: 3777282725008208865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_119
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df742b4b2772c8240800000000000000
+      internalID: 4795251076854073341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_120
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0e3e1409e3b8ba0800000000000000
+      internalID: -6085701682159427391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_121
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335c0cddf94717d40800000000000000
+      internalID: 5580369643257775411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_122
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd39e6414226c790800000000000000
+      internalID: -7510277664835813947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_123
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ac9cbce07b4ef70800000000000000
+      internalID: 9215692011683301989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41dcdcb43b6cba0800000000000000
+      internalID: -6068966309678476100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_125
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc532b7cf0ab5b90800000000000000
+      internalID: -7252025768691933996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_126
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d8b30f666dfc010800000000000000
+      internalID: 1211422562391395683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_127
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2069489b25ca7190800000000000000
+      internalID: -7963836200022089683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8298d3d2c60f6b0800000000000000
+      internalID: -5264589022834382616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ad86d54f8cebd0800000000000000
+      internalID: -2599545354784496501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c5ce10fc4224c0800000000000000
+      internalID: -4313800898875374563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6aa1dccf51932d0800000000000000
+      internalID: -3298581076555159879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_132
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2295344ed199c8a0800000000000000
+      internalID: -6284331421205687766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05616ebea6d2c970800000000000000
+      internalID: 8773811070077854991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_134
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34bde5261b34c5f0800000000000000
+      internalID: -737399472670264259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_135
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3f5ba3b2ace0bd0800000000000000
+      internalID: -2661968042711976978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_136
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd9bc62551984980800000000000000
+      internalID: -8554427697281131018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1270ecc2ca16b890800000000000000
+      internalID: -7442731910219927013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_138
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da8a3a6d03096180800000000000000
+      internalID: -9121756214110549291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859ce6f61cc755990800000000000000
+      internalID: -7397869642646107816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_140
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a5ca0f33e26ec30800000000000000
+      internalID: 4388245687535163960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_141
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa17434a89ad7160800000000000000
+      internalID: 7024957405067156128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_142
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f256b3b963e4620800000000000000
+      internalID: 2760203661969010537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_143
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfa3761ab4b422a0800000000000000
+      internalID: -6763082029070045257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_144
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924c20350bb36e0a0800000000000000
+      internalID: -6852724154504657879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_145
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce77b727be2b5070800000000000000
+      internalID: 8096116119308828357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_146
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e796a1dd7ed840800000000000000
+      internalID: 5250772554957187152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b1e22e1dc623330800000000000000
+      internalID: 3689130693468494675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_148
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bb59aa6a3fa6760800000000000000
+      internalID: 7452036430589967228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_149
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5735d99b4e7538e20800000000000000
+      internalID: 3351619187572036469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_150
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 96
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498c7d852632970e0800000000000000
+      internalID: -2271745631727400812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa63950774488d70800000000000000
+      internalID: 9045555129558985386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_152
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085b6c693aa5673b0800000000000000
+      internalID: -5515121035012819584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0755f5e925b1bf0800000000000000
+      internalID: -352597305660706656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36095bca1b8425d0800000000000000
+      internalID: -3088190497272297924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_155
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f021f7a054963bc50800000000000000
+      internalID: 6679798417570337295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_156
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cad0da7bbf409c20800000000000000
+      internalID: 3211154200953150146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_157
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66bf76068e265040800000000000000
+      internalID: 4635944019594032748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_158
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bbc037c5c9c4960800000000000000
+      internalID: 7587611393093581668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586c400b9d71a1e90800000000000000
+      internalID: -7054299642594015611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_160
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e09e1e50a282eb30800000000000000
+      internalID: 4315155018259796197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_161
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889c93d4746a7fa90800000000000000
+      internalID: -7280167447452595832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_162
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bf4a83d52822970800000000000000
+      internalID: 8728682364691348281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df48b605044f6c9d0800000000000000
+      internalID: -2754245565026171651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_164
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cc9aadc33aee8b0800000000000000
+      internalID: -5120976244511749112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_165
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d667d47e9357f8510800000000000000
+      internalID: 1553589288020309613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_166
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf690075f1290f1c0800000000000000
+      internalID: -4471913766677604613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_167
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 48
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c34a0754e332c60800000000000000
+      internalID: 7792140248244567152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9e388cb7f4c9860800000000000000
+      internalID: 7537987269375027628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_169
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff99d9c73fbdb35c0800000000000000
+      internalID: -4234549185797580289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaia Isopack Tileset_170
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21be92cc333f51db0800000000000000
+      internalID: -4821680422236067054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
