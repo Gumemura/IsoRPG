@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
-  m_Name: river225
+  m_Name: river_corner3b
   m_EditorClassIdentifier: 
   m_AnimatedSprites:
-  - {fileID: 8061919959038570487, guid: 55360da763b91474d8b3ef180011a841, type: 3}
-  - {fileID: -7820381653269175936, guid: 55360da763b91474d8b3ef180011a841, type: 3}
-  - {fileID: 5362339452504853210, guid: 55360da763b91474d8b3ef180011a841, type: 3}
-  - {fileID: 6217416108776383668, guid: 55360da763b91474d8b3ef180011a841, type: 3}
-  m_MinSpeed: 10
-  m_MaxSpeed: 10
+  - {fileID: 2382939300132513154, guid: 5cf77a516705e4b4688d686dc4811dd2, type: 3}
+  - {fileID: 6513869036917900735, guid: 5cf77a516705e4b4688d686dc4811dd2, type: 3}
+  - {fileID: -999488378995791240, guid: 5cf77a516705e4b4688d686dc4811dd2, type: 3}
+  - {fileID: -7290683669699613561, guid: 5cf77a516705e4b4688d686dc4811dd2, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
   m_AnimationStartTime: 0
   m_AnimationStartFrame: 0
   m_TileColliderType: 0

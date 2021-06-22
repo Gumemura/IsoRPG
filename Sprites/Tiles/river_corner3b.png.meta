@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 55360da763b91474d8b3ef180011a841
+guid: 5cf77a516705e4b4688d686dc4811dd2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8061919959038570487
-    second: river_0
+      213: 2382939300132513154
+    second: river_corner3b_0
   - first:
-      213: -7820381653269175936
-    second: river_1
+      213: 6513869036917900735
+    second: river_corner3b_1
   - first:
-      213: 5362339452504853210
-    second: river_2
+      213: -999488378995791240
+    second: river_corner3b_2
   - first:
-      213: 6217416108776383668
-    second: river_3
+      213: -7290683669699613561
+    second: river_corner3b_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -43,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: river_0
+      name: river_corner3b_0
       rect:
         serializedVersion: 2
         x: 1
@@ -137,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ff20262d71b1ef60800000000000000
-      internalID: 8061919959038570487
+      spriteID: 28567b90ba6e11120800000000000000
+      internalID: 2382939300132513154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: river_1
+      name: river_corner3b_1
       rect:
         serializedVersion: 2
         x: 69
@@ -158,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 081a8ec025c687390800000000000000
-      internalID: -7820381653269175936
+      spriteID: fb548ea8069e56a50800000000000000
+      internalID: 6513869036917900735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: river_2
+      name: river_corner3b_2
       rect:
         serializedVersion: 2
         x: 1
@@ -179,14 +179,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ada4d97325bda6a40800000000000000
-      internalID: 5362339452504853210
+      spriteID: 87a23d46d9a1122f0800000000000000
+      internalID: -999488378995791240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: river_3
+      name: river_corner3b_3
       rect:
         serializedVersion: 2
         x: 69
@@ -200,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b468687203b84650800000000000000
-      internalID: 6217416108776383668
+      spriteID: 78c20d184d942da90800000000000000
+      internalID: -7290683669699613561
       vertices: []
       indices: 
       edges: []

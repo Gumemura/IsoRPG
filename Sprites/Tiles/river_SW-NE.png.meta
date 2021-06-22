@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 55360da763b91474d8b3ef180011a841
+guid: 973d1ca74b81e6d4392dac49f728db64
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8061919959038570487
-    second: river_0
+      213: 4583229990950617498
+    second: river_SW-NE_0
   - first:
-      213: -7820381653269175936
-    second: river_1
+      213: 7326684338439568808
+    second: river_SW-NE_1
   - first:
-      213: 5362339452504853210
-    second: river_2
+      213: 3238505740301924664
+    second: river_SW-NE_2
   - first:
-      213: 6217416108776383668
-    second: river_3
+      213: -1497534146257005940
+    second: river_SW-NE_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -43,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: river_0
+      name: river_SW-NE_0
       rect:
         serializedVersion: 2
         x: 1
@@ -137,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ff20262d71b1ef60800000000000000
-      internalID: 8061919959038570487
+      spriteID: a91478ec467ea9f30800000000000000
+      internalID: 4583229990950617498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: river_1
+      name: river_SW-NE_1
       rect:
         serializedVersion: 2
         x: 69
@@ -158,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 081a8ec025c687390800000000000000
-      internalID: -7820381653269175936
+      spriteID: 8adbb1e569c9da560800000000000000
+      internalID: 7326684338439568808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: river_2
+      name: river_SW-NE_2
       rect:
         serializedVersion: 2
         x: 1
@@ -179,14 +179,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ada4d97325bda6a40800000000000000
-      internalID: 5362339452504853210
+      spriteID: 83972cdffcb71fc20800000000000000
+      internalID: 3238505740301924664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: river_3
+      name: river_SW-NE_3
       rect:
         serializedVersion: 2
         x: 69
@@ -200,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b468687203b84650800000000000000
-      internalID: 6217416108776383668
+      spriteID: c825555d0a0b73be0800000000000000
+      internalID: -1497534146257005940
       vertices: []
       indices: 
       edges: []
