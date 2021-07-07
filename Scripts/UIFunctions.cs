@@ -6,6 +6,6 @@ public class UIFunctions : MonoBehaviour
     public Tilemap grid;
 
     public void turnGridOnOff(){
-        grid.gameObject.SetActive(!grid.gameObject.active);
+        grid.gameObject.SetActive(!grid.gameObject.activeSelf);
     }
 }

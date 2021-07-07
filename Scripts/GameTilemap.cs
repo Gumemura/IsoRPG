@@ -1,9 +1,14 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
+using TMPro; 
 
 public class GameTilemap : MonoBehaviour
 {
+	[Header("Debug")]
+	public TileBase blueDebug;
+	public TextMeshProUGUI gridCoords;
+
 	private int PLAIN = 1;
 	private int FOREST = 2;
 	private int SNOW = 3;
@@ -24,11 +29,9 @@ public class GameTilemap : MonoBehaviour
 
 	//the tilemaps
 	private Tilemap walkableFloorTM;
-	private Tilemap obstaclesTM;
 	private Tilemap obstaclesFillTM;
 	private Tilemap decorationTM;
 	private Tilemap visibleGridTM;
-
 
 	//array with all coordinates of tilemaps
 	private List<Vector3Int> allCoords3Int = new List<Vector3Int>();
@@ -69,10 +72,26 @@ public class GameTilemap : MonoBehaviour
 	public Transform[] caveObstacles;
 	public Transform[] caveDecoration;
 
-	[Header("River")]
-	public TileBase riverSEtNW;
-	public TileBase riverSWtNE;
-	//turning river
+	[Header("River Forest/Plains")]
+	public TileBase riverPlainsSEtNW;
+	public TileBase riverPlainsSWtNE;
+	public TileBase riverPlainsHomePlate;
+	public TileBase riverPlains1thBase;
+	public TileBase riverPlains2thBase;
+	public TileBase riverPlains3thBase;
+
+	//TBI = to be implemented
+	[Header("River Snow TBI")]
+	public TileBase riverSnowSEtNW;
+
+	[Header("River Desert TBI")]
+	public TileBase riverDesertSEtNW;
+
+	[Header("River Lava TBI")]
+	public TileBase riverLavaSEtNW;
+
+	[Header("River Cave TBI")]
+	public TileBase riverCaveSEtNW;
 
 	void Start()
 	{
@@ -81,7 +100,6 @@ public class GameTilemap : MonoBehaviour
 
 		walkableFloorTM = transform.Find("WalkableFloor").GetComponent<Tilemap>();
 		obstaclesFillTM = transform.Find("ObstacleFill").GetComponent<Tilemap>();
-		obstaclesTM = transform.Find("Obstacle").GetComponent<Tilemap>();
 		decorationTM = transform.Find("Decoration").GetComponent<Tilemap>();
 		visibleGridTM = transform.Find("VisibleGrid").GetComponent<Tilemap>();
 
@@ -91,8 +109,101 @@ public class GameTilemap : MonoBehaviour
 
 		origin = walkableFloorTM.origin;//origin = home plate
 
+		riverMaker(FOREST);
 		mapGenerator(FOREST);
+	}
 
+	Vector3Int convertedMouse;
+	void Update(){
+		convertedMouse = gameGrid.WorldToCell(Camera.main.ScreenToWorldPoint(Input.mousePosition - new Vector3(0,0,-10)));
+		//convertedMouse = new Vector3Int(convertedMouse.x, convertedMouse.y, 0);
+		gridCoords.text = convertedMouse.ToString();
+
+		if(Input.GetMouseButtonDown(0)){
+			if(visibleGridTM.GetTile(convertedMouse)){
+				walkableFloorTM.SetTile(convertedMouse, blueDebug);
+			}	
+		}
+	}
+
+	//creates a river in the map
+	private void riverMaker(int mapBiome){
+		TileBase riverSEtNW;// \
+		TileBase riverSWtNE;// /
+ 		TileBase riverHP;
+		TileBase river1b;
+		TileBase river2b;
+		TileBase river3b;
+
+		riverSEtNW = riverPlainsSEtNW;
+		riverSWtNE = riverPlainsSWtNE;
+ 		riverHP = riverPlainsHomePlate;
+		river1b = riverPlains1thBase;
+		river2b = riverPlains2thBase;
+		river3b = riverPlains3thBase;
+
+		/*if(mapBiome == PLAIN || mapBiome == FOREST){//only diference btw plain and forest is the amount of forest
+			riverSEtNW = riverPlainsSEtNW;
+			riverSWtNE = riverPlainsSWtNE;
+	 		riverHP = riverPlainsHomePlate;
+			river1b = riverPlains1thBase;
+			river2b = riverPlains2thBase;
+			river3b = riverPlains3thBase;
+		}else if(mapBiome == SNOW){
+
+		}else if(mapBiome == DESERT){
+
+		}else if(mapBiome == LAVA){
+
+		}else{//cave
+
+		}*/
+
+		// 0 = SE
+		// 1 = NE
+		// 2 = NW
+		// 3 = SW
+		int startingSize = Random.Range(0, 4);
+
+		int ySE = origin.y;
+		int xNE = origin.x + gridSize.x - 1;
+		int yNW = origin.y + gridSize.y - 1;
+		int xSW = origin.x;
+
+		Vector3Int startingRiver;
+		int xCounter = 0, yCounter = 0;
+
+		TileBase activeTile;
+
+		if(startingSize == 0){
+			startingRiver = new Vector3Int(Random.Range(xSW, xNE), ySE, 0);
+			yCounter = 1;
+			activeTile = riverSEtNW;
+		}else if(startingSize == 1){
+			startingRiver = new Vector3Int(xNE, Random.Range(ySE, yNW), 0);
+			xCounter = -1;
+			activeTile = riverSWtNE;
+		}else if(startingSize == 2){
+			startingRiver = new Vector3Int(Random.Range(xSW, xNE), yNW, 0);
+			yCounter = -1;
+			activeTile = riverSEtNW;
+		}else{
+			startingRiver = new Vector3Int(xSW, Random.Range(ySE, yNW), 0);
+			xCounter = 1;
+			activeTile = riverSWtNE;
+		}
+
+		bool riverDone = false;
+
+		while(!riverDone){
+			obstaclesFillTM.SetTile(startingRiver, blueDebug);
+			print(startingRiver);
+
+			startingRiver += new Vector3Int(xCounter, yCounter, 0);
+			if(startingRiver.y < ySE || startingRiver.y > yNW || startingRiver.x > xNE || startingRiver.x < xSW){
+				riverDone = true;
+			}
+		}
 	}
 
 	private void mapGenerator(int mapBiome){
@@ -155,7 +266,6 @@ public class GameTilemap : MonoBehaviour
 				cell = origin + new Vector3Int(i, j, 0);
 				convertedCell = walkableFloorTM.GetCellCenterWorld(cell);
 
-
 				offset = Random.Range(0, 100);
 				float xCoord = (float)i / gridSize.x + offset;
 				float yCoord = (float)j / gridSize.y + offset;
@@ -164,18 +274,22 @@ public class GameTilemap : MonoBehaviour
 
 				//creating gaps on map where will be inserted obstacles
 				if(Mathf.PerlinNoise(xCoord, yCoord) < obstacleCadence){
-					selectedObstacle = Random.Range(0, obstacles.Length);
 					walkableFloorTM.SetTile(cell, null);
 
-					//placing visible obstacles
-					obstaclesFillTM.SetTile(cell, tile);
-					Instantiate(obstacles[selectedObstacle], convertedCell, Quaternion.identity, obstaclesTM.transform);
+					if(obstaclesFillTM.GetTile(cell) == null){
+						selectedObstacle = Random.Range(0, obstacles.Length);//selecting a random object to fill the cell (creates cell variation)
+
+						//placing visible obstacles
+						obstaclesFillTM.SetTile(cell, tile);
+						Instantiate(obstacles[selectedObstacle], convertedCell, Quaternion.identity, transform.Find("Obstacles"));
+					}
 				}else{
-					walkableFloorTM.SetTile(cell, tile);
+					if(obstaclesFillTM.GetTile(cell) == null){
+						walkableFloorTM.SetTile(cell, tile);
 
-
-					allCoords3Int.Add(cell);
-					walkableArea.Add(convertedCell);
+						allCoords3Int.Add(cell);
+						walkableArea.Add(convertedCell);
+					}
 				}
 			}
 		}
