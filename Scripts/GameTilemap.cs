@@ -19,6 +19,8 @@ public class GameTilemap : MonoBehaviour
 
 	public Transform ball;
 
+	[Header("Obstacle Cadence")]
+	public float chanceRiverTurn = .1f;//chance of river to turn 90° on his path
 	[Range(.1f, .35f)]
 	public float obstacleCadence;//the lower the value, more gaps(aka obstacles) on map
 	private float offset; //moves the perlin (map seed)
@@ -163,44 +165,76 @@ public class GameTilemap : MonoBehaviour
 		// 1 = NE
 		// 2 = NW
 		// 3 = SW
-		int startingSize = Random.Range(0, 4);
+		int startingSide = Random.Range(0, 4);
 
 		int ySE = origin.y;
 		int xNE = origin.x + gridSize.x - 1;
 		int yNW = origin.y + gridSize.y - 1;
 		int xSW = origin.x;
 
-		Vector3Int startingRiver;
+		Vector3Int riverCoords;
 		int xCounter = 0, yCounter = 0;
+		int riverMainFlow = 0;
 
 		TileBase activeTile;
 
-		if(startingSize == 0){
-			startingRiver = new Vector3Int(Random.Range(xSW, xNE), ySE, 0);
-			yCounter = 1;
-			activeTile = riverSEtNW;
-		}else if(startingSize == 1){
-			startingRiver = new Vector3Int(xNE, Random.Range(ySE, yNW), 0);
-			xCounter = -1;
-			activeTile = riverSWtNE;
-		}else if(startingSize == 2){
-			startingRiver = new Vector3Int(Random.Range(xSW, xNE), yNW, 0);
-			yCounter = -1;
-			activeTile = riverSEtNW;
+		if(startingSide == 0){
+			riverCoords = new Vector3Int(Random.Range(xSW, xNE), ySE, 0);
+			yCounter = riverMainFlow = 1;
+		}else if(startingSide == 1){
+			riverCoords = new Vector3Int(xNE, Random.Range(ySE, yNW), 0);
+			xCounter = riverMainFlow = -1;
+		}else if(startingSide == 2){
+			riverCoords = new Vector3Int(Random.Range(xSW, xNE), yNW, 0);
+			yCounter = riverMainFlow = -1;
 		}else{
-			startingRiver = new Vector3Int(xSW, Random.Range(ySE, yNW), 0);
-			xCounter = 1;
-			activeTile = riverSWtNE;
+			riverCoords = new Vector3Int(xSW, Random.Range(ySE, yNW), 0);
+			xCounter = riverMainFlow = 1;
 		}
 
 		bool riverDone = false;
+		int turningDirection;
 
 		while(!riverDone){
-			obstaclesFillTM.SetTile(startingRiver, blueDebug);
-			print(startingRiver);
+			activeTile = yCounter == 0? riverSWtNE: riverSEtNW;
 
-			startingRiver += new Vector3Int(xCounter, yCounter, 0);
-			if(startingRiver.y < ySE || startingRiver.y > yNW || startingRiver.x > xNE || startingRiver.x < xSW){
+			if(Random.Range(0f, 1f) < chanceRiverTurn){
+				turningDirection = Random.Range(0f, 1f) < .5f? 1: -1;
+
+				if(startingSide == 0 || startingSide == 2){
+					xCounter = xCounter == 0? turningDirection: 0;
+					yCounter = yCounter == 0? riverMainFlow: 0;
+
+					if(riverMainFlow == 1 && xCounter == 1){
+						activeTile = river3b;
+					}else if(riverMainFlow == 1 && (xCounter == -1 || xCounter == 0)){
+						activeTile = river2b;
+					}else if(riverMainFlow == -1 && (xCounter == 1 || xCounter == 0)){
+						activeTile = riverHP;
+					}else if(riverMainFlow == -1 && xCounter == -1){
+						activeTile = river1b;
+					}
+				}else{
+					xCounter = xCounter == 0? riverMainFlow: 0;
+					yCounter = yCounter == 0? turningDirection: 0;
+
+					if(riverMainFlow == 1 && yCounter == 1){
+						activeTile = river1b;
+					}else if(riverMainFlow == 1 && (yCounter == -1 || yCounter == 0)){
+						activeTile = river3b;
+					}else if(riverMainFlow == -1 && (yCounter == 1 || yCounter == 0)){
+						activeTile = riverHP;
+					}else if(riverMainFlow == -1 && yCounter == -1){
+						activeTile = river3b;
+					}
+				}
+			}
+
+			obstaclesFillTM.SetTile(riverCoords, activeTile);
+			walkableFloorTM.SetTile(riverCoords, null);
+
+			riverCoords += new Vector3Int(xCounter, yCounter, 0);
+			if(riverCoords.y < ySE || riverCoords.y > yNW || riverCoords.x > xNE || riverCoords.x < xSW){
 				riverDone = true;
 			}
 		}
